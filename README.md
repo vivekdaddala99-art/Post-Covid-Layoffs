@@ -1,9 +1,6 @@
 # Post-Covid-Layoffs
 SQL Project analyzing layoffs by region and companies
 
-Perfect — I can see your full SQL script! This is actually really well written. Let me draft the README now:
-
----
 
 # 🌍 Post-COVID Global Layoffs Analysis (2020–2023)
 
