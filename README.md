@@ -71,8 +71,3 @@ Tracked cumulative layoffs month-on-month using CTEs and SUM window functions:
 4. The United States accounted for the majority of global layoffs across all four years
 5. Industry impact shifted from Travel/Transportation in 2020 to Consumer/Retail by 2023
 
----
-
-That's your full README! Copy this into a file called `README.md` in your GitHub repository alongside your SQL file and it'll look really professional.
-
-Want me to write the Bellabeat README as well?
